@@ -31,6 +31,8 @@ But I still recommend checking the 3D model to see how the parts go!
 
 Check the schematic for details.
 
+![image](https://github.com/bcskn/Tamabunni/assets/12624047/070bb332-2b6e-49d4-8835-88298a40f569)
+
 ## Installing the game
 1. Flash the Pico with Circuit Python
 2. Copy the contents of src/ inside the Pico
