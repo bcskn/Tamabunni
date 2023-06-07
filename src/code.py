@@ -1,7 +1,5 @@
 # TODO: Save the data of the game to the onboard flash whenever it is bein charged
 # Optional TODO: Add the clock
-# TODO: Add the backlight functionality
-# TODO: Add the plug in detection with the GPIO pin instead of the voltage level
 
 import adafruit_pcd8544
 import board,busio,digitalio
