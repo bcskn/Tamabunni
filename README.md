@@ -7,10 +7,10 @@ Video: https://www.youtube.com/watch?v=bPAoemKU1jg
 ## Materials
 1. Raspberry Pi Pico (Wireless version is not supported)
 2. Nokia 5110 LCD (Their characteristics can change between different manufacturers so be careful)
-3. Lipo charge circuit (
+3. Lipo charge circuit (1S 4056 BMS module)
 4. Lipo
 5. 2-pin tact buttons  x4
-6. 
+6. 70mm x 50mm perfboard
 
 ## Case
 I 3D printed the case but you can easily design a new one yourself as finding the exact components to fit the case might be harder than just making up a new one.
